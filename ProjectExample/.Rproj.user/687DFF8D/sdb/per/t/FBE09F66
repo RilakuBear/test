@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "mainFile <- function()\n{\n\n  table = readAllTable()\n  # 判斷內容\n  mainFile = 2:100\n  \n}\n",
+    "created" : 1468569109801.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1738943141",
+    "id" : "FBE09F66",
+    "lastKnownWriteTime" : 1468572205,
+    "last_content_update" : 1468572205105,
+    "path" : "C:/Users/pecu6/Desktop/NTU-CSX/R FinTech/code/StudentProjects/Team05/mainFile.R",
+    "project_path" : "mainFile.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

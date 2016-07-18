@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "stockIndex <- function()\n{\n\n  tabel = readAllTable()\n  \n  # 判斷買或賣\n  get = BuyOrSell(tabel)\n  \n  stockIndex = 1:10\n}\n",
+    "created" : 1468571029794.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3186492309",
+    "id" : "AF967992",
+    "lastKnownWriteTime" : 1468572179,
+    "last_content_update" : 1468572179049,
+    "path" : "C:/Users/pecu6/Desktop/NTU-CSX/R FinTech/code/StudentProjects/Team05/results.R",
+    "project_path" : "results.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

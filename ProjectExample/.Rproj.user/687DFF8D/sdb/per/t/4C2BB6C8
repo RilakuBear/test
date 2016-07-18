@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "BuyOrSell <- function(tabel)\n{\n  # 判斷如何決定買或賣\n  BuyOrSell = c(1,0,1,0)\n}",
+    "created" : 1468570742576.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "230457262",
+    "id" : "4C2BB6C8",
+    "lastKnownWriteTime" : 1468575265,
+    "last_content_update" : 1468575265051,
+    "path" : "C:/Users/pecu6/Desktop/NTU-CSX/R FinTech/code/StudentProjects/Team05/BuyOrSell.R",
+    "project_path" : "BuyOrSell.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

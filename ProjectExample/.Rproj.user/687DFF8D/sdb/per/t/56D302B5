@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "library(shiny)\n\nshinyUI(fluidPage(\n\n  titlePanel(\"Old Faithful Geyser Data\"),\n\n  sidebarLayout(\n      plotOutput(\"plot1\"), plotOutput(\"plot2\")\n  )\n))\n",
+    "created" : 1468568792433.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "169985756",
+    "id" : "56D302B5",
+    "lastKnownWriteTime" : 1468575248,
+    "last_content_update" : 1468575248582,
+    "path" : "C:/Users/pecu6/Desktop/NTU-CSX/R FinTech/code/StudentProjects/Team05/ui.R",
+    "project_path" : "ui.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

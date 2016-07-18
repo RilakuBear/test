@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "readAllTable <- function()\n{\n  index = c('2016-07-14','2016-07-15')\n  \n  path = './Sources/'\n  tabel = data.frame()\n  ctable = data.frame()\n  for( id in 1:length(index) )\n  {\n    name = paste(path, index[id], '.csv', sep='')\n    ctabel = read.csv(name)\n    tabel = rbind(tabel, ctabel)\n  }\n  \n  readAllTable = tabel\n}",
+    "created" : 1468572011018.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "644987395",
+    "id" : "9B63AD9",
+    "lastKnownWriteTime" : 1468572104,
+    "last_content_update" : 1468572104460,
+    "path" : "C:/Users/pecu6/Desktop/NTU-CSX/R FinTech/code/StudentProjects/Team05/readAllData.R",
+    "project_path" : "readAllData.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
